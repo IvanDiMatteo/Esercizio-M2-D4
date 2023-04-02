@@ -15,7 +15,7 @@
   Scrivi del codice per creare un array di soli valori DISPARI da 1 a 100.
  */
 
-//? let array=[1];
+//? let array=[];
 
 //? for(let var1 =1; var1 <=100; var1+=2){
 //?   array.push(var1);
